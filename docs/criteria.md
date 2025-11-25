@@ -1,5 +1,7 @@
 # Best Practices Criteria for Free/Libre and Open Source Software (FLOSS)
 
+**Official project website:** <https://www.kelleretoro.com>
+
 <!-- SPDX-License-Identifier: (MIT OR CC-BY-3.0+) -->
 <!-- DO NOT EDIT generated file criteria.md !! -->
 <!-- The actual criteria and detail text are in config/locales/en.yml -->
@@ -200,6 +202,7 @@ There is an implied criterion that we should mention here:
   with a stable URL.
   (The badging application enforces this by requiring a URL to
   create a badge entry.)
+  For this project, the official website is <https://www.kelleretoro.com>.
   <sup>[<a href="#homepage_url">homepage_url</a>]</sup>
 
 ### Basics
@@ -584,6 +587,9 @@ and the "[implementation](./implementation.md)" notes
 about the BadgeApp application.
 
 ## See also
+
+**Official project website:** <https://www.kelleretoro.com> -
+Central location for contributions, documentation, and project resources.
 
 Project participation and interface:
 
